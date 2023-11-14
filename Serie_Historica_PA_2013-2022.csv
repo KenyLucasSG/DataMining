@@ -1,0 +1,1255 @@
+﻿BR Região Infecção (AMZxEXT);BR UF Infecção;BR Cod Mun Infecção;BR Mun de infecção ;BR Espécie Parasitária;Número de registros;Ano
+Região Amazônica;PA;Em branco;;P. vivax;1;2013
+Região Amazônica;PA;Ignorado (PA);;Malária mista;1;2013
+Região Amazônica;PA;Ignorado (PA);;P. vivax;3;2013
+Região Amazônica;PA;150010;Abaetetuba;Malária mista;1;2013
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;4;2013
+Região Amazônica;PA;150020;Acará;P. vivax;2;2013
+Região Amazônica;PA;150030;Afuá;Malária mista;4;2013
+Região Amazônica;PA;150030;Afuá;P. falciparum;81;2013
+Região Amazônica;PA;150030;Afuá;P. vivax;610;2013
+Região Amazônica;PA;150034;Água Azul do Norte;P. vivax;2;2013
+Região Amazônica;PA;150040;Alenquer;Malária mista;4;2013
+Região Amazônica;PA;150040;Alenquer;P. falciparum;60;2013
+Região Amazônica;PA;150040;Alenquer;P. vivax;243;2013
+Região Amazônica;PA;150050;Almeirim;P. malariae;2;2013
+Região Amazônica;PA;150050;Almeirim;Malária mista;1;2013
+Região Amazônica;PA;150050;Almeirim;P. falciparum;78;2013
+Região Amazônica;PA;150050;Almeirim;P. vivax;413;2013
+Região Amazônica;PA;150060;Altamira;Malária mista;3;2013
+Região Amazônica;PA;150060;Altamira;P. falciparum;9;2013
+Região Amazônica;PA;150060;Altamira;P. vivax;297;2013
+Região Amazônica;PA;150070;Anajás;Malária mista;134;2013
+Região Amazônica;PA;150070;Anajás;P. falciparum;426;2013
+Região Amazônica;PA;150070;Anajás;P. vivax;2513;2013
+Região Amazônica;PA;150080;Ananindeua;P. vivax;142;2013
+Região Amazônica;PA;150085;Anapu;P. falciparum;16;2013
+Região Amazônica;PA;150085;Anapu;P. vivax;220;2013
+Região Amazônica;PA;150090;Augusto Corrêa;P. vivax;2;2013
+Região Amazônica;PA;150095;Aurora do Pará;P. falciparum;1;2013
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;6;2013
+Região Amazônica;PA;150100;Aveiro;P. vivax;4;2013
+Região Amazônica;PA;150110;Bagre;Malária mista;1;2013
+Região Amazônica;PA;150110;Bagre;P. vivax;40;2013
+Região Amazônica;PA;150120;Baião;P. falciparum;19;2013
+Região Amazônica;PA;150120;Baião;P. vivax;44;2013
+Região Amazônica;PA;150130;Barcarena;P. vivax;8;2013
+Região Amazônica;PA;150140;Belém;Malária mista;2;2013
+Região Amazônica;PA;150140;Belém;P. falciparum;4;2013
+Região Amazônica;PA;150140;Belém;P. vivax;53;2013
+Região Amazônica;PA;150145;Belterra;P. vivax;4;2013
+Região Amazônica;PA;150150;Benevides;P. vivax;1;2013
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. vivax;4;2013
+Região Amazônica;PA;150170;Bragança;P. vivax;4;2013
+Região Amazônica;PA;150172;Brasil Novo;P. vivax;6;2013
+Região Amazônica;PA;150175;Brejo Grande do Araguaia;P. vivax;1;2013
+Região Amazônica;PA;150178;Breu Branco;P. falciparum;2;2013
+Região Amazônica;PA;150178;Breu Branco;P. vivax;24;2013
+Região Amazônica;PA;150180;Breves;Malária mista;5;2013
+Região Amazônica;PA;150180;Breves;P. falciparum;32;2013
+Região Amazônica;PA;150180;Breves;P. vivax;875;2013
+Região Amazônica;PA;150190;Bujaru;P. vivax;1;2013
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. falciparum;1;2013
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;4;2013
+Região Amazônica;PA;150200;Cachoeira do Arari;P. vivax;2;2013
+Região Amazônica;PA;150210;Cametá;P. vivax;189;2013
+Região Amazônica;PA;150215;Canaã dos Carajás;P. vivax;2;2013
+Região Amazônica;PA;150230;Capitão Poço;P. vivax;3;2013
+Região Amazônica;PA;150250;Chaves;Malária mista;1;2013
+Região Amazônica;PA;150250;Chaves;P. falciparum;39;2013
+Região Amazônica;PA;150250;Chaves;P. vivax;201;2013
+Região Amazônica;PA;150260;Colares;P. falciparum;1;2013
+Região Amazônica;PA;150260;Colares;P. vivax;7;2013
+Região Amazônica;PA;150275;Concórdia do Pará;P. vivax;3;2013
+Região Amazônica;PA;150276;Cumaru do Norte;Malária mista;1;2013
+Região Amazônica;PA;150276;Cumaru do Norte;P. falciparum;1;2013
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;31;2013
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2013
+Região Amazônica;PA;150280;Curralinho;P. vivax;182;2013
+Região Amazônica;PA;150290;Curuçá;P. vivax;22;2013
+Região Amazônica;PA;150293;Dom Eliseu;P. falciparum;1;2013
+Região Amazônica;PA;150293;Dom Eliseu;P. vivax;1;2013
+Região Amazônica;PA;150300;Faro;P. vivax;5;2013
+Região Amazônica;PA;150309;Goianésia do Pará;Malária mista;4;2013
+Região Amazônica;PA;150309;Goianésia do Pará;P. falciparum;47;2013
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;199;2013
+Região Amazônica;PA;150310;Gurupá;P. falciparum;3;2013
+Região Amazônica;PA;150310;Gurupá;P. vivax;5;2013
+Região Amazônica;PA;150320;Igarapé-Açu;P. vivax;4;2013
+Região Amazônica;PA;150340;Inhangapi;P. vivax;1;2013
+Região Amazônica;PA;150345;Ipixuna do Pará;Malária mista;1;2013
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;16;2013
+Região Amazônica;PA;150360;Itaituba;P. malariae;10;2013
+Região Amazônica;PA;150360;Itaituba;Malária mista;761;2013
+Região Amazônica;PA;150360;Itaituba;P. falciparum;3201;2013
+Região Amazônica;PA;150360;Itaituba;P. vivax;6932;2013
+Região Amazônica;PA;150370;Itupiranga;P. vivax;12;2013
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;25;2013
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;457;2013
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;2005;2013
+Região Amazônica;PA;150380;Jacundá;P. falciparum;2;2013
+Região Amazônica;PA;150380;Jacundá;P. vivax;2;2013
+Região Amazônica;PA;150390;Juruti;P. vivax;6;2013
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;100;2013
+Região Amazônica;PA;150410;Magalhães Barata;P. vivax;18;2013
+Região Amazônica;PA;150420;Marabá;P. falciparum;3;2013
+Região Amazônica;PA;150420;Marabá;P. vivax;22;2013
+Região Amazônica;PA;150430;Maracanã;Malária mista;1;2013
+Região Amazônica;PA;150430;Maracanã;P. vivax;113;2013
+Região Amazônica;PA;150440;Marapanim;P. vivax;61;2013
+Região Amazônica;PA;150442;Marituba;P. falciparum;1;2013
+Região Amazônica;PA;150445;Medicilândia;P. falciparum;7;2013
+Região Amazônica;PA;150445;Medicilândia;P. vivax;21;2013
+Região Amazônica;PA;150450;Melgaço;P. vivax;15;2013
+Região Amazônica;PA;150460;Mocajuba;P. falciparum;1;2013
+Região Amazônica;PA;150460;Mocajuba;P. vivax;5;2013
+Região Amazônica;PA;150470;Moju;Malária mista;1;2013
+Região Amazônica;PA;150470;Moju;P. falciparum;7;2013
+Região Amazônica;PA;150470;Moju;P. vivax;76;2013
+Região Amazônica;PA;150480;Monte Alegre;P. falciparum;1;2013
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;2;2013
+Região Amazônica;PA;150490;Muaná;P. vivax;25;2013
+Região Amazônica;PA;150495;Nova Esperança do Piriá;P. vivax;9;2013
+Região Amazônica;PA;150497;Nova Ipixuna;P. vivax;5;2013
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;53;2013
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;241;2013
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;838;2013
+Região Amazônica;PA;150506;Novo Repartimento;P. falciparum;4;2013
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;40;2013
+Região Amazônica;PA;150510;Óbidos;P. falciparum;17;2013
+Região Amazônica;PA;150510;Óbidos;P. vivax;11;2013
+Região Amazônica;PA;150520;Oeiras do Pará;Malária mista;2;2013
+Região Amazônica;PA;150520;Oeiras do Pará;P. falciparum;4;2013
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;96;2013
+Região Amazônica;PA;150530;Oriximiná;P. vivax;24;2013
+Região Amazônica;PA;150543;Ourilândia do Norte;P. malariae;1;2013
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;53;2013
+Região Amazônica;PA;150548;Pacajá;Malária mista;5;2013
+Região Amazônica;PA;150548;Pacajá;P. falciparum;144;2013
+Região Amazônica;PA;150548;Pacajá;P. vivax;692;2013
+Região Amazônica;PA;150549;Palestina do Pará;P. vivax;1;2013
+Região Amazônica;PA;150550;Paragominas;P. falciparum;1;2013
+Região Amazônica;PA;150550;Paragominas;P. vivax;64;2013
+Região Amazônica;PA;150553;Parauapebas;P. falciparum;2;2013
+Região Amazônica;PA;150553;Parauapebas;P. vivax;12;2013
+Região Amazônica;PA;150563;Piçarra;P. vivax;1;2013
+Região Amazônica;PA;150565;Placas;Malária mista;2;2013
+Região Amazônica;PA;150565;Placas;P. vivax;25;2013
+Região Amazônica;PA;150570;Ponta de Pedras;Malária mista;3;2013
+Região Amazônica;PA;150570;Ponta de Pedras;P. falciparum;2;2013
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;69;2013
+Região Amazônica;PA;150580;Portel;Malária mista;6;2013
+Região Amazônica;PA;150580;Portel;P. falciparum;73;2013
+Região Amazônica;PA;150580;Portel;P. vivax;732;2013
+Região Amazônica;PA;150590;Porto de Moz;P. vivax;19;2013
+Região Amazônica;PA;150600;Prainha;Malária mista;1;2013
+Região Amazônica;PA;150600;Prainha;P. vivax;14;2013
+Região Amazônica;PA;150613;Redenção;P. falciparum;1;2013
+Região Amazônica;PA;150613;Redenção;P. vivax;14;2013
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;1;2013
+Região Amazônica;PA;150619;Rurópolis;Malária mista;4;2013
+Região Amazônica;PA;150619;Rurópolis;P. falciparum;1;2013
+Região Amazônica;PA;150619;Rurópolis;P. vivax;6;2013
+Região Amazônica;PA;150620;Salinópolis;P. vivax;1;2013
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;6;2013
+Região Amazônica;PA;150650;Santa Izabel do Pará;P. vivax;1;2013
+Região Amazônica;PA;150655;Santa Luzia do Pará;P. vivax;3;2013
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;3;2013
+Região Amazônica;PA;150660;Santa Maria do Pará;P. vivax;1;2013
+Região Amazônica;PA;150670;Santana do Araguaia;P. vivax;1;2013
+Região Amazônica;PA;150680;Santarém;P. malariae;1;2013
+Região Amazônica;PA;150680;Santarém;P. falciparum;2;2013
+Região Amazônica;PA;150680;Santarém;P. vivax;28;2013
+Região Amazônica;PA;150710;São Caetano de Odivelas;P. vivax;179;2013
+Região Amazônica;PA;150715;São Domingos do Araguaia;Malária mista;1;2013
+Região Amazônica;PA;150715;São Domingos do Araguaia;P. vivax;2;2013
+Região Amazônica;PA;150720;São Domingos do Capim;P. vivax;2;2013
+Região Amazônica;PA;150730;São Félix do Xingu;Malária mista;1;2013
+Região Amazônica;PA;150730;São Félix do Xingu;P. falciparum;2;2013
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;31;2013
+Região Amazônica;PA;150740;São Francisco do Pará;P. falciparum;1;2013
+Região Amazônica;PA;150740;São Francisco do Pará;P. vivax;1;2013
+Região Amazônica;PA;150746;São João da Ponta;P. vivax;14;2013
+Região Amazônica;PA;150750;São João do Araguaia;P. vivax;2;2013
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. falciparum;4;2013
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;25;2013
+Região Amazônica;PA;150780;Senador José Porfírio;Malária mista;1;2013
+Região Amazônica;PA;150780;Senador José Porfírio;P. falciparum;1;2013
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;193;2013
+Região Amazônica;PA;150790;Soure;P. vivax;5;2013
+Região Amazônica;PA;150795;Tailândia;Malária mista;1;2013
+Região Amazônica;PA;150795;Tailândia;P. falciparum;1;2013
+Região Amazônica;PA;150795;Tailândia;P. vivax;9;2013
+Região Amazônica;PA;150800;Tomé-Açu;P. vivax;24;2013
+Região Amazônica;PA;150805;Trairão;Malária mista;10;2013
+Região Amazônica;PA;150805;Trairão;P. falciparum;28;2013
+Região Amazônica;PA;150805;Trairão;P. vivax;154;2013
+Região Amazônica;PA;150808;Tucumã;P. vivax;1;2013
+Região Amazônica;PA;150810;Tucuruí;P. falciparum;14;2013
+Região Amazônica;PA;150810;Tucuruí;P. vivax;175;2013
+Região Amazônica;PA;150812;Ulianópolis;P. vivax;1;2013
+Região Amazônica;PA;150815;Uruará;P. falciparum;1;2013
+Região Amazônica;PA;150815;Uruará;P. vivax;15;2013
+Região Amazônica;PA;150820;Vigia;P. vivax;11;2013
+Região Amazônica;PA;150830;Viseu;P. vivax;1;2013
+Região Amazônica;PA;150835;Vitória do Xingu;P. falciparum;1;2013
+Região Amazônica;PA;150835;Vitória do Xingu;P. vivax;42;2013
+Região Amazônica;PA;150840;Xinguara;Malária mista;1;2013
+Região Amazônica;PA;150840;Xinguara;P. vivax;2;2013
+Região Amazônica;PA;Ignorado (PA);;Malária mista;1;2014
+Região Amazônica;PA;Ignorado (PA);;P. falciparum;1;2014
+Região Amazônica;PA;Ignorado (PA);;P. vivax;3;2014
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;1;2014
+Região Amazônica;PA;150020;Acará;P. vivax;2;2014
+Região Amazônica;PA;150030;Afuá;P. malariae;1;2014
+Região Amazônica;PA;150030;Afuá;Malária mista;1;2014
+Região Amazônica;PA;150030;Afuá;P. falciparum;14;2014
+Região Amazônica;PA;150030;Afuá;P. vivax;491;2014
+Região Amazônica;PA;150040;Alenquer;P. falciparum;45;2014
+Região Amazônica;PA;150040;Alenquer;P. vivax;63;2014
+Região Amazônica;PA;150050;Almeirim;Malária mista;2;2014
+Região Amazônica;PA;150050;Almeirim;P. falciparum;96;2014
+Região Amazônica;PA;150050;Almeirim;P. vivax;213;2014
+Região Amazônica;PA;150060;Altamira;Malária mista;2;2014
+Região Amazônica;PA;150060;Altamira;P. falciparum;2;2014
+Região Amazônica;PA;150060;Altamira;P. vivax;126;2014
+Região Amazônica;PA;150070;Anajás;Malária mista;39;2014
+Região Amazônica;PA;150070;Anajás;P. falciparum;399;2014
+Região Amazônica;PA;150070;Anajás;P. vivax;1486;2014
+Região Amazônica;PA;150080;Ananindeua;P. vivax;4;2014
+Região Amazônica;PA;150085;Anapu;P. falciparum;18;2014
+Região Amazônica;PA;150085;Anapu;P. vivax;182;2014
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;3;2014
+Região Amazônica;PA;150100;Aveiro;P. vivax;2;2014
+Região Amazônica;PA;150110;Bagre;P. vivax;11;2014
+Região Amazônica;PA;150120;Baião;P. vivax;8;2014
+Região Amazônica;PA;150125;Bannach;P. vivax;1;2014
+Região Amazônica;PA;150140;Belém;P. falciparum;2;2014
+Região Amazônica;PA;150140;Belém;P. vivax;8;2014
+Região Amazônica;PA;150145;Belterra;P. vivax;1;2014
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. vivax;4;2014
+Região Amazônica;PA;150175;Brejo Grande do Araguaia;P. vivax;1;2014
+Região Amazônica;PA;150178;Breu Branco;P. vivax;4;2014
+Região Amazônica;PA;150180;Breves;P. falciparum;14;2014
+Região Amazônica;PA;150180;Breves;P. vivax;409;2014
+Região Amazônica;PA;150190;Bujaru;P. vivax;23;2014
+Região Amazônica;PA;150200;Cachoeira do Arari;P. vivax;1;2014
+Região Amazônica;PA;150210;Cametá;P. vivax;10;2014
+Região Amazônica;PA;150215;Canaã dos Carajás;P. vivax;3;2014
+Região Amazônica;PA;150230;Capitão Poço;P. vivax;1;2014
+Região Amazônica;PA;150240;Castanhal;P. vivax;1;2014
+Região Amazônica;PA;150250;Chaves;P. falciparum;6;2014
+Região Amazônica;PA;150250;Chaves;P. vivax;42;2014
+Região Amazônica;PA;150275;Concórdia do Pará;P. vivax;7;2014
+Região Amazônica;PA;150276;Cumaru do Norte;P. falciparum;1;2014
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;89;2014
+Região Amazônica;PA;150280;Curralinho;P. vivax;41;2014
+Região Amazônica;PA;150285;Curuá;P. falciparum;1;2014
+Região Amazônica;PA;150290;Curuçá;P. vivax;5;2014
+Região Amazônica;PA;150295;Eldorado do Carajás;P. vivax;2;2014
+Região Amazônica;PA;150300;Faro;P. vivax;2;2014
+Região Amazônica;PA;150307;Garrafão do Norte;P. vivax;1;2014
+Região Amazônica;PA;150309;Goianésia do Pará;P. falciparum;3;2014
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;11;2014
+Região Amazônica;PA;150310;Gurupá;P. falciparum;3;2014
+Região Amazônica;PA;150310;Gurupá;P. vivax;9;2014
+Região Amazônica;PA;150320;Igarapé-Açu;P. vivax;1;2014
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;1;2014
+Região Amazônica;PA;150360;Itaituba;P. malariae;7;2014
+Região Amazônica;PA;150360;Itaituba;Malária mista;151;2014
+Região Amazônica;PA;150360;Itaituba;P. falciparum;1000;2014
+Região Amazônica;PA;150360;Itaituba;P. vivax;3790;2014
+Região Amazônica;PA;150370;Itupiranga;P. vivax;24;2014
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;3;2014
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;174;2014
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;543;2014
+Região Amazônica;PA;150380;Jacundá;P. vivax;3;2014
+Região Amazônica;PA;150390;Juruti;P. vivax;1;2014
+Região Amazônica;PA;150410;Magalhães Barata;P. vivax;2;2014
+Região Amazônica;PA;150420;Marabá;Malária mista;2;2014
+Região Amazônica;PA;150420;Marabá;P. falciparum;1;2014
+Região Amazônica;PA;150420;Marabá;P. vivax;12;2014
+Região Amazônica;PA;150430;Maracanã;P. vivax;14;2014
+Região Amazônica;PA;150440;Marapanim;P. vivax;9;2014
+Região Amazônica;PA;150442;Marituba;P. vivax;3;2014
+Região Amazônica;PA;150445;Medicilândia;P. vivax;8;2014
+Região Amazônica;PA;150450;Melgaço;P. vivax;5;2014
+Região Amazônica;PA;150460;Mocajuba;P. vivax;1;2014
+Região Amazônica;PA;150470;Moju;P. vivax;22;2014
+Região Amazônica;PA;150475;Mojuí dos Campos;P. vivax;2;2014
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;2;2014
+Região Amazônica;PA;150490;Muaná;P. vivax;1;2014
+Região Amazônica;PA;150497;Nova Ipixuna;P. vivax;2;2014
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;15;2014
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;97;2014
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;274;2014
+Região Amazônica;PA;150506;Novo Repartimento;Malária mista;2;2014
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;19;2014
+Região Amazônica;PA;150510;Óbidos;P. vivax;2;2014
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;2;2014
+Região Amazônica;PA;150530;Oriximiná;P. falciparum;2;2014
+Região Amazônica;PA;150530;Oriximiná;P. vivax;24;2014
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;3;2014
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;132;2014
+Região Amazônica;PA;150548;Pacajá;Malária mista;3;2014
+Região Amazônica;PA;150548;Pacajá;P. falciparum;6;2014
+Região Amazônica;PA;150548;Pacajá;P. vivax;496;2014
+Região Amazônica;PA;150550;Paragominas;P. vivax;2;2014
+Região Amazônica;PA;150553;Parauapebas;P. vivax;5;2014
+Região Amazônica;PA;150565;Placas;P. vivax;10;2014
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;16;2014
+Região Amazônica;PA;150580;Portel;P. falciparum;3;2014
+Região Amazônica;PA;150580;Portel;P. vivax;296;2014
+Região Amazônica;PA;150613;Redenção;P. vivax;7;2014
+Região Amazônica;PA;150616;Rio Maria;P. falciparum;1;2014
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;1;2014
+Região Amazônica;PA;150619;Rurópolis;P. falciparum;1;2014
+Região Amazônica;PA;150619;Rurópolis;P. vivax;5;2014
+Região Amazônica;PA;150630;Salvaterra;P. falciparum;1;2014
+Região Amazônica;PA;150635;Santa Bárbara do Pará;P. vivax;2;2014
+Região Amazônica;PA;150655;Santa Luzia do Pará;P. vivax;1;2014
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;1;2014
+Região Amazônica;PA;150670;Santana do Araguaia;P. vivax;1;2014
+Região Amazônica;PA;150680;Santarém;Malária mista;1;2014
+Região Amazônica;PA;150680;Santarém;P. falciparum;1;2014
+Região Amazônica;PA;150680;Santarém;P. vivax;16;2014
+Região Amazônica;PA;150710;São Caetano de Odivelas;P. vivax;1;2014
+Região Amazônica;PA;150720;São Domingos do Capim;P. vivax;2;2014
+Região Amazônica;PA;150730;São Félix do Xingu;Malária mista;2;2014
+Região Amazônica;PA;150730;São Félix do Xingu;P. falciparum;2;2014
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;148;2014
+Região Amazônica;PA;150746;São João da Ponta;P. vivax;1;2014
+Região Amazônica;PA;150750;São João do Araguaia;Malária mista;3;2014
+Região Amazônica;PA;150750;São João do Araguaia;P. vivax;54;2014
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;Malária mista;1;2014
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;60;2014
+Região Amazônica;PA;150790;Soure;P. vivax;1;2014
+Região Amazônica;PA;150795;Tailândia;P. vivax;4;2014
+Região Amazônica;PA;150800;Tomé-Açu;P. vivax;2;2014
+Região Amazônica;PA;150805;Trairão;P. vivax;26;2014
+Região Amazônica;PA;150808;Tucumã;P. vivax;10;2014
+Região Amazônica;PA;150810;Tucuruí;P. vivax;28;2014
+Região Amazônica;PA;150812;Ulianópolis;P. vivax;1;2014
+Região Amazônica;PA;150815;Uruará;P. vivax;1;2014
+Região Amazônica;PA;150820;Vigia;P. vivax;2;2014
+Região Amazônica;PA;150835;Vitória do Xingu;P. vivax;14;2014
+Região Amazônica;PA;150840;Xinguara;Malária mista;1;2014
+Região Amazônica;PA;150840;Xinguara;P. vivax;2;2014
+Região Amazônica;PA;Ignorado (PA);;P. falciparum;1;2015
+Região Amazônica;PA;Ignorado (PA);;P. vivax;2;2015
+Região Amazônica;PA;150030;Afuá;Malária mista;4;2015
+Região Amazônica;PA;150030;Afuá;P. falciparum;128;2015
+Região Amazônica;PA;150030;Afuá;P. vivax;331;2015
+Região Amazônica;PA;150040;Alenquer;P. falciparum;60;2015
+Região Amazônica;PA;150040;Alenquer;P. vivax;5;2015
+Região Amazônica;PA;150050;Almeirim;Malária mista;1;2015
+Região Amazônica;PA;150050;Almeirim;P. falciparum;64;2015
+Região Amazônica;PA;150050;Almeirim;P. vivax;421;2015
+Região Amazônica;PA;150060;Altamira;P. falciparum;1;2015
+Região Amazônica;PA;150060;Altamira;P. vivax;41;2015
+Região Amazônica;PA;150070;Anajás;Malária mista;29;2015
+Região Amazônica;PA;150070;Anajás;P. falciparum;789;2015
+Região Amazônica;PA;150070;Anajás;P. vivax;2021;2015
+Região Amazônica;PA;150080;Ananindeua;P. vivax;1;2015
+Região Amazônica;PA;150085;Anapu;P. vivax;31;2015
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;2;2015
+Região Amazônica;PA;150100;Aveiro;P. vivax;1;2015
+Região Amazônica;PA;150110;Bagre;P. vivax;3;2015
+Região Amazônica;PA;150120;Baião;P. vivax;18;2015
+Região Amazônica;PA;150125;Bannach;P. vivax;16;2015
+Região Amazônica;PA;150140;Belém;P. vivax;15;2015
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. vivax;2;2015
+Região Amazônica;PA;150175;Brejo Grande do Araguaia;P. falciparum;1;2015
+Região Amazônica;PA;150175;Brejo Grande do Araguaia;P. vivax;4;2015
+Região Amazônica;PA;150180;Breves;P. malariae;1;2015
+Região Amazônica;PA;150180;Breves;Malária mista;7;2015
+Região Amazônica;PA;150180;Breves;P. falciparum;14;2015
+Região Amazônica;PA;150180;Breves;P. vivax;516;2015
+Região Amazônica;PA;150210;Cametá;P. vivax;1;2015
+Região Amazônica;PA;150215;Canaã dos Carajás;P. vivax;3;2015
+Região Amazônica;PA;150250;Chaves;Malária mista;5;2015
+Região Amazônica;PA;150250;Chaves;P. falciparum;91;2015
+Região Amazônica;PA;150250;Chaves;P. vivax;68;2015
+Região Amazônica;PA;150275;Concórdia do Pará;P. vivax;2;2015
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;53;2015
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2015
+Região Amazônica;PA;150280;Curralinho;P. falciparum;3;2015
+Região Amazônica;PA;150280;Curralinho;P. vivax;87;2015
+Região Amazônica;PA;150285;Curuá;P. vivax;1;2015
+Região Amazônica;PA;150290;Curuçá;P. vivax;1;2015
+Região Amazônica;PA;150295;Eldorado do Carajás;P. vivax;1;2015
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;2;2015
+Região Amazônica;PA;150310;Gurupá;P. falciparum;1;2015
+Região Amazônica;PA;150310;Gurupá;P. vivax;6;2015
+Região Amazônica;PA;150320;Igarapé-Açu;P. vivax;1;2015
+Região Amazônica;PA;150350;Irituia;P. vivax;1;2015
+Região Amazônica;PA;150360;Itaituba;P. malariae;4;2015
+Região Amazônica;PA;150360;Itaituba;Malária mista;63;2015
+Região Amazônica;PA;150360;Itaituba;P. falciparum;568;2015
+Região Amazônica;PA;150360;Itaituba;P. vivax;1887;2015
+Região Amazônica;PA;150370;Itupiranga;P. vivax;2;2015
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;3;2015
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;79;2015
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;432;2015
+Região Amazônica;PA;150380;Jacundá;P. vivax;2;2015
+Região Amazônica;PA;150420;Marabá;P. vivax;4;2015
+Região Amazônica;PA;150430;Maracanã;P. vivax;3;2015
+Região Amazônica;PA;150440;Marapanim;P. vivax;1;2015
+Região Amazônica;PA;150442;Marituba;P. vivax;3;2015
+Região Amazônica;PA;150450;Melgaço;Malária mista;1;2015
+Região Amazônica;PA;150450;Melgaço;P. falciparum;1;2015
+Região Amazônica;PA;150450;Melgaço;P. vivax;2;2015
+Região Amazônica;PA;150460;Mocajuba;P. vivax;2;2015
+Região Amazônica;PA;150470;Moju;P. vivax;9;2015
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;1;2015
+Região Amazônica;PA;150490;Muaná;P. vivax;2;2015
+Região Amazônica;PA;150497;Nova Ipixuna;P. vivax;1;2015
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;5;2015
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;21;2015
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;142;2015
+Região Amazônica;PA;150506;Novo Repartimento;Malária mista;1;2015
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;14;2015
+Região Amazônica;PA;150510;Óbidos;P. falciparum;2;2015
+Região Amazônica;PA;150510;Óbidos;P. vivax;157;2015
+Região Amazônica;PA;150530;Oriximiná;P. vivax;13;2015
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;1;2015
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;216;2015
+Região Amazônica;PA;150548;Pacajá;Malária mista;2;2015
+Região Amazônica;PA;150548;Pacajá;P. vivax;344;2015
+Região Amazônica;PA;150549;Palestina do Pará;P. vivax;1;2015
+Região Amazônica;PA;150550;Paragominas;P. vivax;2;2015
+Região Amazônica;PA;150553;Parauapebas;P. vivax;26;2015
+Região Amazônica;PA;150565;Placas;P. vivax;10;2015
+Região Amazônica;PA;150570;Ponta de Pedras;P. falciparum;1;2015
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;4;2015
+Região Amazônica;PA;150580;Portel;P. vivax;269;2015
+Região Amazônica;PA;150600;Prainha;P. vivax;1;2015
+Região Amazônica;PA;150613;Redenção;P. falciparum;1;2015
+Região Amazônica;PA;150613;Redenção;P. vivax;8;2015
+Região Amazônica;PA;150616;Rio Maria;P. vivax;2;2015
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;1;2015
+Região Amazônica;PA;150619;Rurópolis;P. vivax;1;2015
+Região Amazônica;PA;150635;Santa Bárbara do Pará;P. vivax;1;2015
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;4;2015
+Região Amazônica;PA;150670;Santana do Araguaia;P. vivax;2;2015
+Região Amazônica;PA;150680;Santarém;P. vivax;8;2015
+Região Amazônica;PA;150715;São Domingos do Araguaia;P. vivax;1;2015
+Região Amazônica;PA;150720;São Domingos do Capim;P. vivax;1;2015
+Região Amazônica;PA;150730;São Félix do Xingu;Malária mista;1;2015
+Região Amazônica;PA;150730;São Félix do Xingu;P. falciparum;10;2015
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;101;2015
+Região Amazônica;PA;150750;São João do Araguaia;Malária mista;1;2015
+Região Amazônica;PA;150750;São João do Araguaia;P. vivax;58;2015
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;1;2015
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;6;2015
+Região Amazônica;PA;150795;Tailândia;P. vivax;1;2015
+Região Amazônica;PA;150803;Tracuateua;Malária mista;1;2015
+Região Amazônica;PA;150805;Trairão;P. falciparum;1;2015
+Região Amazônica;PA;150805;Trairão;P. vivax;14;2015
+Região Amazônica;PA;150808;Tucumã;Malária mista;1;2015
+Região Amazônica;PA;150808;Tucumã;P. vivax;197;2015
+Região Amazônica;PA;150810;Tucuruí;P. vivax;18;2015
+Região Amazônica;PA;150815;Uruará;P. vivax;2;2015
+Região Amazônica;PA;150820;Vigia;P. vivax;3;2015
+Região Amazônica;PA;150830;Viseu;P. vivax;1;2015
+Região Amazônica;PA;150835;Vitória do Xingu;P. vivax;1;2015
+Região Amazônica;PA;150840;Xinguara;P. vivax;1;2015
+Região Amazônica;PA;130290;Maués;P. falciparum;1;2016
+Região Amazônica;PA;Ignorado (PA);;P. falciparum;1;2016
+Região Amazônica;PA;Ignorado (PA);;P. vivax;2;2016
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;1;2016
+Região Amazônica;PA;150013;Abel Figueiredo;P. vivax;1;2016
+Região Amazônica;PA;150020;Acará;P. vivax;2;2016
+Região Amazônica;PA;150030;Afuá;P. falciparum;24;2016
+Região Amazônica;PA;150030;Afuá;P. vivax;488;2016
+Região Amazônica;PA;150040;Alenquer;Malária mista;1;2016
+Região Amazônica;PA;150040;Alenquer;P. falciparum;95;2016
+Região Amazônica;PA;150040;Alenquer;P. vivax;3;2016
+Região Amazônica;PA;150050;Almeirim;Malária mista;9;2016
+Região Amazônica;PA;150050;Almeirim;P. falciparum;229;2016
+Região Amazônica;PA;150050;Almeirim;P. vivax;475;2016
+Região Amazônica;PA;150060;Altamira;P. falciparum;2;2016
+Região Amazônica;PA;150060;Altamira;P. vivax;19;2016
+Região Amazônica;PA;150070;Anajás;Malária mista;5;2016
+Região Amazônica;PA;150070;Anajás;P. falciparum;200;2016
+Região Amazônica;PA;150070;Anajás;P. vivax;1907;2016
+Região Amazônica;PA;150080;Ananindeua;P. vivax;2;2016
+Região Amazônica;PA;150085;Anapu;P. vivax;54;2016
+Região Amazônica;PA;150110;Bagre;P. falciparum;1;2016
+Região Amazônica;PA;150110;Bagre;P. vivax;126;2016
+Região Amazônica;PA;150120;Baião;P. vivax;50;2016
+Região Amazônica;PA;150125;Bannach;Malária mista;1;2016
+Região Amazônica;PA;150125;Bannach;P. vivax;38;2016
+Região Amazônica;PA;150140;Belém;P. vivax;3;2016
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;Malária mista;1;2016
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. falciparum;1;2016
+Região Amazônica;PA;150178;Breu Branco;P. vivax;6;2016
+Região Amazônica;PA;150180;Breves;Malária mista;7;2016
+Região Amazônica;PA;150180;Breves;P. falciparum;12;2016
+Região Amazônica;PA;150180;Breves;P. vivax;1712;2016
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;3;2016
+Região Amazônica;PA;150210;Cametá;P. vivax;2;2016
+Região Amazônica;PA;150215;Canaã dos Carajás;P. vivax;1;2016
+Região Amazônica;PA;150250;Chaves;Malária mista;1;2016
+Região Amazônica;PA;150250;Chaves;P. falciparum;81;2016
+Região Amazônica;PA;150250;Chaves;P. vivax;320;2016
+Região Amazônica;PA;150275;Concórdia do Pará;P. vivax;2;2016
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;28;2016
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2016
+Região Amazônica;PA;150280;Curralinho;P. falciparum;4;2016
+Região Amazônica;PA;150280;Curralinho;P. vivax;973;2016
+Região Amazônica;PA;150310;Gurupá;P. falciparum;1;2016
+Região Amazônica;PA;150310;Gurupá;P. vivax;5;2016
+Região Amazônica;PA;150320;Igarapé-Açu;P. vivax;1;2016
+Região Amazônica;PA;150330;Igarapé-Miri;P. falciparum;1;2016
+Região Amazônica;PA;150330;Igarapé-Miri;P. vivax;1;2016
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;2;2016
+Região Amazônica;PA;150360;Itaituba;Malária mista;54;2016
+Região Amazônica;PA;150360;Itaituba;P. falciparum;382;2016
+Região Amazônica;PA;150360;Itaituba;P. vivax;1496;2016
+Região Amazônica;PA;150370;Itupiranga;P. vivax;6;2016
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;1;2016
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;43;2016
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;339;2016
+Região Amazônica;PA;150390;Juruti;P. vivax;3;2016
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;6;2016
+Região Amazônica;PA;150420;Marabá;P. vivax;10;2016
+Região Amazônica;PA;150442;Marituba;P. vivax;2;2016
+Região Amazônica;PA;150450;Melgaço;P. vivax;34;2016
+Região Amazônica;PA;150460;Mocajuba;P. vivax;2;2016
+Região Amazônica;PA;150480;Monte Alegre;P. falciparum;1;2016
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;29;2016
+Região Amazônica;PA;150490;Muaná;P. vivax;38;2016
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;3;2016
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;234;2016
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;16;2016
+Região Amazônica;PA;150510;Óbidos;P. vivax;237;2016
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;88;2016
+Região Amazônica;PA;150530;Oriximiná;P. falciparum;1;2016
+Região Amazônica;PA;150530;Oriximiná;P. vivax;26;2016
+Região Amazônica;PA;150543;Ourilândia do Norte;Malária mista;2;2016
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;2;2016
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;963;2016
+Região Amazônica;PA;150548;Pacajá;P. falciparum;4;2016
+Região Amazônica;PA;150548;Pacajá;P. vivax;461;2016
+Região Amazônica;PA;150550;Paragominas;P. vivax;1;2016
+Região Amazônica;PA;150553;Parauapebas;P. vivax;22;2016
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;14;2016
+Região Amazônica;PA;150580;Portel;P. falciparum;1;2016
+Região Amazônica;PA;150580;Portel;P. vivax;1218;2016
+Região Amazônica;PA;150590;Porto de Moz;P. falciparum;1;2016
+Região Amazônica;PA;150590;Porto de Moz;P. vivax;1;2016
+Região Amazônica;PA;150600;Prainha;P. falciparum;1;2016
+Região Amazônica;PA;150613;Redenção;P. vivax;7;2016
+Região Amazônica;PA;150616;Rio Maria;P. vivax;2;2016
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;1;2016
+Região Amazônica;PA;150619;Rurópolis;Malária mista;1;2016
+Região Amazônica;PA;150619;Rurópolis;P. vivax;7;2016
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;1;2016
+Região Amazônica;PA;150650;Santa Izabel do Pará;P. vivax;1;2016
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;2;2016
+Região Amazônica;PA;150660;Santa Maria do Pará;P. vivax;1;2016
+Região Amazônica;PA;150680;Santarém;P. falciparum;1;2016
+Região Amazônica;PA;150680;Santarém;P. vivax;5;2016
+Região Amazônica;PA;150720;São Domingos do Capim;P. vivax;1;2016
+Região Amazônica;PA;150730;São Félix do Xingu;Malária mista;3;2016
+Região Amazônica;PA;150730;São Félix do Xingu;P. falciparum;2;2016
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;331;2016
+Região Amazônica;PA;150745;São Geraldo do Araguaia;P. vivax;2;2016
+Região Amazônica;PA;150750;São João do Araguaia;P. vivax;3;2016
+Região Amazônica;PA;150760;São Miguel do Guamá;P. vivax;1;2016
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;1453;2016
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;3;2016
+Região Amazônica;PA;150805;Trairão;P. falciparum;1;2016
+Região Amazônica;PA;150805;Trairão;P. vivax;8;2016
+Região Amazônica;PA;150808;Tucumã;Malária mista;2;2016
+Região Amazônica;PA;150808;Tucumã;P. falciparum;1;2016
+Região Amazônica;PA;150808;Tucumã;P. vivax;261;2016
+Região Amazônica;PA;150810;Tucuruí;P. falciparum;3;2016
+Região Amazônica;PA;150810;Tucuruí;P. vivax;54;2016
+Região Amazônica;PA;150812;Ulianópolis;P. vivax;2;2016
+Região Amazônica;PA;150815;Uruará;P. vivax;1;2016
+Região Amazônica;PA;150820;Vigia;P. vivax;1;2016
+Região Amazônica;PA;150840;Xinguara;P. vivax;1;2016
+Região Amazônica;PA;Ignorado (PA);;P. vivax;2;2017
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;1;2017
+Região Amazônica;PA;150020;Acará;P. vivax;1;2017
+Região Amazônica;PA;150030;Afuá;P. falciparum;22;2017
+Região Amazônica;PA;150030;Afuá;P. vivax;642;2017
+Região Amazônica;PA;150040;Alenquer;P. falciparum;143;2017
+Região Amazônica;PA;150040;Alenquer;P. vivax;1;2017
+Região Amazônica;PA;150050;Almeirim;P. malariae;2;2017
+Região Amazônica;PA;150050;Almeirim;Malária mista;12;2017
+Região Amazônica;PA;150050;Almeirim;P. falciparum;249;2017
+Região Amazônica;PA;150050;Almeirim;P. vivax;324;2017
+Região Amazônica;PA;150060;Altamira;Malária mista;1;2017
+Região Amazônica;PA;150060;Altamira;P. vivax;38;2017
+Região Amazônica;PA;150070;Anajás;Malária mista;33;2017
+Região Amazônica;PA;150070;Anajás;P. falciparum;386;2017
+Região Amazônica;PA;150070;Anajás;P. vivax;5460;2017
+Região Amazônica;PA;150080;Ananindeua;P. vivax;9;2017
+Região Amazônica;PA;150085;Anapu;P. vivax;7;2017
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;5;2017
+Região Amazônica;PA;150110;Bagre;Malária mista;2;2017
+Região Amazônica;PA;150110;Bagre;P. vivax;7498;2017
+Região Amazônica;PA;150120;Baião;P. vivax;115;2017
+Região Amazônica;PA;150125;Bannach;P. vivax;5;2017
+Região Amazônica;PA;150130;Barcarena;P. vivax;3;2017
+Região Amazônica;PA;150140;Belém;P. vivax;14;2017
+Região Amazônica;PA;150175;Brejo Grande do Araguaia;P. vivax;21;2017
+Região Amazônica;PA;150178;Breu Branco;P. vivax;30;2017
+Região Amazônica;PA;150180;Breves;Malária mista;2;2017
+Região Amazônica;PA;150180;Breves;P. falciparum;18;2017
+Região Amazônica;PA;150180;Breves;P. vivax;1435;2017
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;4;2017
+Região Amazônica;PA;150200;Cachoeira do Arari;P. vivax;3;2017
+Região Amazônica;PA;150210;Cametá;P. vivax;943;2017
+Região Amazônica;PA;150215;Canaã dos Carajás;P. vivax;1;2017
+Região Amazônica;PA;150250;Chaves;Malária mista;1;2017
+Região Amazônica;PA;150250;Chaves;P. falciparum;14;2017
+Região Amazônica;PA;150250;Chaves;P. vivax;458;2017
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;15;2017
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2017
+Região Amazônica;PA;150280;Curralinho;Malária mista;9;2017
+Região Amazônica;PA;150280;Curralinho;P. falciparum;11;2017
+Região Amazônica;PA;150280;Curralinho;P. vivax;4277;2017
+Região Amazônica;PA;150295;Eldorado do Carajás;P. vivax;2;2017
+Região Amazônica;PA;150300;Faro;P. vivax;8;2017
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;6;2017
+Região Amazônica;PA;150310;Gurupá;P. falciparum;3;2017
+Região Amazônica;PA;150310;Gurupá;P. vivax;15;2017
+Região Amazônica;PA;150330;Igarapé-Miri;P. vivax;2;2017
+Região Amazônica;PA;150350;Irituia;P. falciparum;1;2017
+Região Amazônica;PA;150360;Itaituba;Malária mista;47;2017
+Região Amazônica;PA;150360;Itaituba;P. falciparum;395;2017
+Região Amazônica;PA;150360;Itaituba;P. vivax;1646;2017
+Região Amazônica;PA;150370;Itupiranga;P. vivax;67;2017
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;14;2017
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;33;2017
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;910;2017
+Região Amazônica;PA;150380;Jacundá;P. vivax;3;2017
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;456;2017
+Região Amazônica;PA;150420;Marabá;P. vivax;3;2017
+Região Amazônica;PA;150442;Marituba;P. vivax;5;2017
+Região Amazônica;PA;150450;Melgaço;P. vivax;138;2017
+Região Amazônica;PA;150460;Mocajuba;P. vivax;8;2017
+Região Amazônica;PA;150470;Moju;P. vivax;1;2017
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;4;2017
+Região Amazônica;PA;150490;Muaná;P. falciparum;1;2017
+Região Amazônica;PA;150490;Muaná;P. vivax;309;2017
+Região Amazônica;PA;150495;Nova Esperança do Piriá;P. vivax;34;2017
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;1;2017
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;12;2017
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;603;2017
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;592;2017
+Região Amazônica;PA;150510;Óbidos;Malária mista;1;2017
+Região Amazônica;PA;150510;Óbidos;P. vivax;195;2017
+Região Amazônica;PA;150520;Oeiras do Pará;P. falciparum;3;2017
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;5597;2017
+Região Amazônica;PA;150530;Oriximiná;P. vivax;9;2017
+Região Amazônica;PA;150540;Ourém;P. falciparum;1;2017
+Região Amazônica;PA;150543;Ourilândia do Norte;Malária mista;2;2017
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;1;2017
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;181;2017
+Região Amazônica;PA;150548;Pacajá;Malária mista;1;2017
+Região Amazônica;PA;150548;Pacajá;P. vivax;637;2017
+Região Amazônica;PA;150550;Paragominas;P. vivax;4;2017
+Região Amazônica;PA;150553;Parauapebas;P. vivax;12;2017
+Região Amazônica;PA;150560;Peixe-Boi;P. vivax;1;2017
+Região Amazônica;PA;150565;Placas;P. vivax;2;2017
+Região Amazônica;PA;150570;Ponta de Pedras;P. falciparum;4;2017
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;80;2017
+Região Amazônica;PA;150580;Portel;Malária mista;1;2017
+Região Amazônica;PA;150580;Portel;P. falciparum;2;2017
+Região Amazônica;PA;150580;Portel;P. vivax;1452;2017
+Região Amazônica;PA;150590;Porto de Moz;P. vivax;1;2017
+Região Amazônica;PA;150600;Prainha;P. vivax;7;2017
+Região Amazônica;PA;150613;Redenção;P. vivax;3;2017
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;2;2017
+Região Amazônica;PA;150619;Rurópolis;Malária mista;1;2017
+Região Amazônica;PA;150619;Rurópolis;P. vivax;8;2017
+Região Amazônica;PA;150630;Salvaterra;P. vivax;1;2017
+Região Amazônica;PA;150635;Santa Bárbara do Pará;P. vivax;1;2017
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;12;2017
+Região Amazônica;PA;150650;Santa Izabel do Pará;P. vivax;1;2017
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;2;2017
+Região Amazônica;PA;150670;Santana do Araguaia;P. vivax;1;2017
+Região Amazônica;PA;150680;Santarém;P. vivax;27;2017
+Região Amazônica;PA;150720;São Domingos do Capim;P. vivax;3;2017
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;24;2017
+Região Amazônica;PA;150740;São Francisco do Pará;P. vivax;1;2017
+Região Amazônica;PA;150745;São Geraldo do Araguaia;P. vivax;1;2017
+Região Amazônica;PA;150750;São João do Araguaia;P. vivax;3;2017
+Região Amazônica;PA;150760;São Miguel do Guamá;P. vivax;1;2017
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;Malária mista;1;2017
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;1110;2017
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;1;2017
+Região Amazônica;PA;150795;Tailândia;P. vivax;2;2017
+Região Amazônica;PA;150800;Tomé-Açu;P. vivax;2;2017
+Região Amazônica;PA;150805;Trairão;P. falciparum;1;2017
+Região Amazônica;PA;150805;Trairão;P. vivax;3;2017
+Região Amazônica;PA;150808;Tucumã;P. vivax;7;2017
+Região Amazônica;PA;150810;Tucuruí;P. vivax;162;2017
+Região Amazônica;PA;150815;Uruará;P. vivax;7;2017
+Região Amazônica;PA;150820;Vigia;P. falciparum;1;2017
+Região Amazônica;PA;150820;Vigia;P. vivax;2;2017
+Região Amazônica;PA;Ignorado (PA);;P. vivax;8;2018
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;5;2018
+Região Amazônica;PA;150030;Afuá;Malária mista;1;2018
+Região Amazônica;PA;150030;Afuá;P. falciparum;19;2018
+Região Amazônica;PA;150030;Afuá;P. vivax;651;2018
+Região Amazônica;PA;150034;Água Azul do Norte;P. vivax;1;2018
+Região Amazônica;PA;150040;Alenquer;Malária mista;1;2018
+Região Amazônica;PA;150040;Alenquer;P. falciparum;150;2018
+Região Amazônica;PA;150040;Alenquer;P. vivax;184;2018
+Região Amazônica;PA;150050;Almeirim;Malária mista;4;2018
+Região Amazônica;PA;150050;Almeirim;P. falciparum;147;2018
+Região Amazônica;PA;150050;Almeirim;P. vivax;500;2018
+Região Amazônica;PA;150060;Altamira;Malária mista;1;2018
+Região Amazônica;PA;150060;Altamira;P. vivax;162;2018
+Região Amazônica;PA;150070;Anajás;Malária mista;9;2018
+Região Amazônica;PA;150070;Anajás;P. falciparum;203;2018
+Região Amazônica;PA;150070;Anajás;P. vivax;4619;2018
+Região Amazônica;PA;150080;Ananindeua;P. vivax;15;2018
+Região Amazônica;PA;150085;Anapu;P. vivax;3;2018
+Região Amazônica;PA;150090;Augusto Corrêa;P. vivax;2;2018
+Região Amazônica;PA;150095;Aurora do Pará;P. falciparum;1;2018
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;5;2018
+Região Amazônica;PA;150100;Aveiro;P. vivax;1;2018
+Região Amazônica;PA;150110;Bagre;P. vivax;5768;2018
+Região Amazônica;PA;150120;Baião;P. vivax;447;2018
+Região Amazônica;PA;150140;Belém;P. falciparum;1;2018
+Região Amazônica;PA;150140;Belém;P. vivax;12;2018
+Região Amazônica;PA;150145;Belterra;P. vivax;1;2018
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. vivax;2;2018
+Região Amazônica;PA;150170;Bragança;P. vivax;1;2018
+Região Amazônica;PA;150178;Breu Branco;P. vivax;38;2018
+Região Amazônica;PA;150180;Breves;Malária mista;3;2018
+Região Amazônica;PA;150180;Breves;P. falciparum;1;2018
+Região Amazônica;PA;150180;Breves;P. vivax;1222;2018
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;125;2018
+Região Amazônica;PA;150200;Cachoeira do Arari;P. falciparum;1;2018
+Região Amazônica;PA;150200;Cachoeira do Arari;P. vivax;1;2018
+Região Amazônica;PA;150210;Cametá;Malária mista;1;2018
+Região Amazônica;PA;150210;Cametá;P. vivax;7999;2018
+Região Amazônica;PA;150250;Chaves;Malária mista;1;2018
+Região Amazônica;PA;150250;Chaves;P. falciparum;2;2018
+Região Amazônica;PA;150250;Chaves;P. vivax;430;2018
+Região Amazônica;PA;150260;Colares;P. vivax;1;2018
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;2;2018
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2018
+Região Amazônica;PA;150280;Curralinho;P. falciparum;2;2018
+Região Amazônica;PA;150280;Curralinho;P. vivax;1904;2018
+Região Amazônica;PA;150285;Curuá;P. vivax;2;2018
+Região Amazônica;PA;150295;Eldorado do Carajás;P. vivax;1;2018
+Região Amazônica;PA;150300;Faro;P. vivax;44;2018
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;27;2018
+Região Amazônica;PA;150310;Gurupá;P. falciparum;1;2018
+Região Amazônica;PA;150310;Gurupá;P. vivax;27;2018
+Região Amazônica;PA;150330;Igarapé-Miri;P. falciparum;1;2018
+Região Amazônica;PA;150330;Igarapé-Miri;P. vivax;8;2018
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;4;2018
+Região Amazônica;PA;150360;Itaituba;P. malariae;2;2018
+Região Amazônica;PA;150360;Itaituba;Malária mista;53;2018
+Região Amazônica;PA;150360;Itaituba;P. falciparum;367;2018
+Região Amazônica;PA;150360;Itaituba;P. vivax;2142;2018
+Região Amazônica;PA;150370;Itupiranga;P. vivax;35;2018
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;9;2018
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;25;2018
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;872;2018
+Região Amazônica;PA;150380;Jacundá;P. vivax;4;2018
+Região Amazônica;PA;150400;Limoeiro do Ajuru;Malária mista;1;2018
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;1219;2018
+Região Amazônica;PA;150420;Marabá;P. falciparum;1;2018
+Região Amazônica;PA;150420;Marabá;P. vivax;8;2018
+Região Amazônica;PA;150430;Maracanã;P. vivax;1;2018
+Região Amazônica;PA;150445;Medicilândia;P. vivax;1;2018
+Região Amazônica;PA;150450;Melgaço;P. vivax;113;2018
+Região Amazônica;PA;150460;Mocajuba;P. vivax;768;2018
+Região Amazônica;PA;150470;Moju;P. vivax;12;2018
+Região Amazônica;PA;150475;Mojuí dos Campos;P. vivax;2;2018
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;3;2018
+Região Amazônica;PA;150490;Muaná;P. falciparum;1;2018
+Região Amazônica;PA;150490;Muaná;P. vivax;282;2018
+Região Amazônica;PA;150495;Nova Esperança do Piriá;P. vivax;85;2018
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;1;2018
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;7;2018
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;366;2018
+Região Amazônica;PA;150506;Novo Repartimento;P. falciparum;1;2018
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;346;2018
+Região Amazônica;PA;150510;Óbidos;P. vivax;20;2018
+Região Amazônica;PA;150520;Oeiras do Pará;Malária mista;1;2018
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;11168;2018
+Região Amazônica;PA;150530;Oriximiná;P. falciparum;1;2018
+Região Amazônica;PA;150530;Oriximiná;P. vivax;202;2018
+Região Amazônica;PA;150543;Ourilândia do Norte;Malária mista;1;2018
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;12;2018
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;143;2018
+Região Amazônica;PA;150548;Pacajá;P. falciparum;1;2018
+Região Amazônica;PA;150548;Pacajá;P. vivax;450;2018
+Região Amazônica;PA;150550;Paragominas;P. vivax;74;2018
+Região Amazônica;PA;150553;Parauapebas;P. vivax;4;2018
+Região Amazônica;PA;150565;Placas;P. vivax;1;2018
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;101;2018
+Região Amazônica;PA;150580;Portel;Malária mista;1;2018
+Região Amazônica;PA;150580;Portel;P. vivax;1355;2018
+Região Amazônica;PA;150590;Porto de Moz;P. vivax;1;2018
+Região Amazônica;PA;150600;Prainha;P. falciparum;1;2018
+Região Amazônica;PA;150600;Prainha;P. vivax;4;2018
+Região Amazônica;PA;150613;Redenção;P. vivax;2;2018
+Região Amazônica;PA;150619;Rurópolis;P. vivax;3;2018
+Região Amazônica;PA;150635;Santa Bárbara do Pará;P. vivax;1;2018
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. falciparum;1;2018
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;7;2018
+Região Amazônica;PA;150655;Santa Luzia do Pará;P. vivax;1;2018
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;1;2018
+Região Amazônica;PA;150680;Santarém;Malária mista;3;2018
+Região Amazônica;PA;150680;Santarém;P. falciparum;3;2018
+Região Amazônica;PA;150680;Santarém;P. vivax;9;2018
+Região Amazônica;PA;150720;São Domingos do Capim;P. vivax;4;2018
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;11;2018
+Região Amazônica;PA;150760;São Miguel do Guamá;P. vivax;1;2018
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;385;2018
+Região Amazônica;PA;150790;Soure;P. vivax;1;2018
+Região Amazônica;PA;150797;Terra Santa;P. vivax;1;2018
+Região Amazônica;PA;150800;Tomé-Açu;P. vivax;2;2018
+Região Amazônica;PA;150805;Trairão;P. falciparum;1;2018
+Região Amazônica;PA;150805;Trairão;P. vivax;14;2018
+Região Amazônica;PA;150808;Tucumã;P. vivax;8;2018
+Região Amazônica;PA;150810;Tucuruí;Malária mista;1;2018
+Região Amazônica;PA;150810;Tucuruí;P. falciparum;2;2018
+Região Amazônica;PA;150810;Tucuruí;P. vivax;914;2018
+Região Amazônica;PA;150830;Viseu;P. vivax;2;2018
+Região Amazônica;PA;150835;Vitória do Xingu;P. vivax;1;2018
+Região Amazônica;PA;Ignorado (PA);;P. vivax;4;2019
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;2;2019
+Região Amazônica;PA;150020;Acará;P. vivax;1;2019
+Região Amazônica;PA;150030;Afuá;P. falciparum;43;2019
+Região Amazônica;PA;150030;Afuá;P. vivax;740;2019
+Região Amazônica;PA;150034;Água Azul do Norte;Malária mista;1;2019
+Região Amazônica;PA;150034;Água Azul do Norte;P. falciparum;1;2019
+Região Amazônica;PA;150040;Alenquer;P. falciparum;45;2019
+Região Amazônica;PA;150040;Alenquer;P. vivax;1321;2019
+Região Amazônica;PA;150050;Almeirim;Malária mista;4;2019
+Região Amazônica;PA;150050;Almeirim;P. falciparum;24;2019
+Região Amazônica;PA;150050;Almeirim;P. vivax;291;2019
+Região Amazônica;PA;150060;Altamira;Malária mista;5;2019
+Região Amazônica;PA;150060;Altamira;P. falciparum;1;2019
+Região Amazônica;PA;150060;Altamira;P. vivax;556;2019
+Região Amazônica;PA;150070;Anajás;Malária mista;31;2019
+Região Amazônica;PA;150070;Anajás;P. falciparum;453;2019
+Região Amazônica;PA;150070;Anajás;P. vivax;5418;2019
+Região Amazônica;PA;150080;Ananindeua;P. vivax;1;2019
+Região Amazônica;PA;150085;Anapu;P. falciparum;1;2019
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;1;2019
+Região Amazônica;PA;150100;Aveiro;P. vivax;8;2019
+Região Amazônica;PA;150110;Bagre;P. vivax;3798;2019
+Região Amazônica;PA;150120;Baião;P. vivax;171;2019
+Região Amazônica;PA;150140;Belém;P. falciparum;1;2019
+Região Amazônica;PA;150140;Belém;P. vivax;20;2019
+Região Amazônica;PA;150178;Breu Branco;P. vivax;40;2019
+Região Amazônica;PA;150180;Breves;P. falciparum;30;2019
+Região Amazônica;PA;150180;Breves;P. vivax;1643;2019
+Região Amazônica;PA;150190;Bujaru;P. vivax;1;2019
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;6;2019
+Região Amazônica;PA;150210;Cametá;P. vivax;3298;2019
+Região Amazônica;PA;150240;Castanhal;P. vivax;1;2019
+Região Amazônica;PA;150250;Chaves;Malária mista;1;2019
+Região Amazônica;PA;150250;Chaves;P. falciparum;6;2019
+Região Amazônica;PA;150250;Chaves;P. vivax;271;2019
+Região Amazônica;PA;150276;Cumaru do Norte;P. falciparum;1;2019
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;50;2019
+Região Amazônica;PA;150280;Curralinho;P. vivax;630;2019
+Região Amazônica;PA;150285;Curuá;P. vivax;1;2019
+Região Amazônica;PA;150300;Faro;P. vivax;14;2019
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;9;2019
+Região Amazônica;PA;150310;Gurupá;P. vivax;13;2019
+Região Amazônica;PA;150320;Igarapé-Açu;P. vivax;1;2019
+Região Amazônica;PA;150330;Igarapé-Miri;P. vivax;2;2019
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;1;2019
+Região Amazônica;PA;150350;Irituia;P. falciparum;1;2019
+Região Amazônica;PA;150360;Itaituba;Malária mista;56;2019
+Região Amazônica;PA;150360;Itaituba;P. falciparum;432;2019
+Região Amazônica;PA;150360;Itaituba;P. vivax;3171;2019
+Região Amazônica;PA;150375;Jacareacanga;P. malariae;1;2019
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;5;2019
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;41;2019
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;2348;2019
+Região Amazônica;PA;150380;Jacundá;P. vivax;3;2019
+Região Amazônica;PA;150390;Juruti;P. vivax;1;2019
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;420;2019
+Região Amazônica;PA;150420;Marabá;P. vivax;4;2019
+Região Amazônica;PA;150440;Marapanim;P. vivax;1;2019
+Região Amazônica;PA;150450;Melgaço;P. vivax;24;2019
+Região Amazônica;PA;150460;Mocajuba;P. vivax;183;2019
+Região Amazônica;PA;150470;Moju;P. vivax;9;2019
+Região Amazônica;PA;150475;Mojuí dos Campos;P. vivax;1;2019
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;2;2019
+Região Amazônica;PA;150490;Muaná;P. vivax;43;2019
+Região Amazônica;PA;150495;Nova Esperança do Piriá;P. vivax;1;2019
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;1;2019
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;1;2019
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;143;2019
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;30;2019
+Região Amazônica;PA;150510;Óbidos;P. falciparum;1;2019
+Região Amazônica;PA;150510;Óbidos;P. vivax;45;2019
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;4800;2019
+Região Amazônica;PA;150530;Oriximiná;P. falciparum;1;2019
+Região Amazônica;PA;150530;Oriximiná;P. vivax;412;2019
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;39;2019
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;137;2019
+Região Amazônica;PA;150548;Pacajá;Malária mista;1;2019
+Região Amazônica;PA;150548;Pacajá;P. vivax;168;2019
+Região Amazônica;PA;150550;Paragominas;P. vivax;25;2019
+Região Amazônica;PA;150553;Parauapebas;Malária mista;1;2019
+Região Amazônica;PA;150553;Parauapebas;P. falciparum;1;2019
+Região Amazônica;PA;150553;Parauapebas;P. vivax;3;2019
+Região Amazônica;PA;150560;Peixe-Boi;P. vivax;1;2019
+Região Amazônica;PA;150565;Placas;P. vivax;1;2019
+Região Amazônica;PA;150570;Ponta de Pedras;P. falciparum;3;2019
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;53;2019
+Região Amazônica;PA;150580;Portel;P. falciparum;1;2019
+Região Amazônica;PA;150580;Portel;P. vivax;794;2019
+Região Amazônica;PA;150590;Porto de Moz;P. vivax;1;2019
+Região Amazônica;PA;150600;Prainha;P. vivax;50;2019
+Região Amazônica;PA;150613;Redenção;P. vivax;8;2019
+Região Amazônica;PA;150619;Rurópolis;P. vivax;3;2019
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. falciparum;1;2019
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;11;2019
+Região Amazônica;PA;150655;Santa Luzia do Pará;P. vivax;1;2019
+Região Amazônica;PA;150680;Santarém;P. vivax;11;2019
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;18;2019
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;26;2019
+Região Amazônica;PA;150780;Senador José Porfírio;P. falciparum;2;2019
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;14;2019
+Região Amazônica;PA;150790;Soure;P. vivax;1;2019
+Região Amazônica;PA;150795;Tailândia;P. vivax;3;2019
+Região Amazônica;PA;150800;Tomé-Açu;P. vivax;1;2019
+Região Amazônica;PA;150805;Trairão;P. vivax;3;2019
+Região Amazônica;PA;150808;Tucumã;P. falciparum;10;2019
+Região Amazônica;PA;150808;Tucumã;P. vivax;14;2019
+Região Amazônica;PA;150810;Tucuruí;P. falciparum;1;2019
+Região Amazônica;PA;150810;Tucuruí;P. vivax;240;2019
+Região Amazônica;PA;150812;Ulianópolis;P. vivax;1;2019
+Região Amazônica;PA;Ignorado (PA);;P. vivax;3;2020
+Região Amazônica;PA;150010;Abaetetuba;P. vivax;2;2020
+Região Amazônica;PA;150020;Acará;P. vivax;1;2020
+Região Amazônica;PA;150030;Afuá;Malária mista;4;2020
+Região Amazônica;PA;150030;Afuá;P. falciparum;109;2020
+Região Amazônica;PA;150030;Afuá;P. vivax;320;2020
+Região Amazônica;PA;150040;Alenquer;P. vivax;1089;2020
+Região Amazônica;PA;150050;Almeirim;P. falciparum;4;2020
+Região Amazônica;PA;150050;Almeirim;P. vivax;470;2020
+Região Amazônica;PA;150060;Altamira;Malária mista;1;2020
+Região Amazônica;PA;150060;Altamira;P. falciparum;1;2020
+Região Amazônica;PA;150060;Altamira;P. vivax;824;2020
+Região Amazônica;PA;150070;Anajás;Malária mista;35;2020
+Região Amazônica;PA;150070;Anajás;P. falciparum;1086;2020
+Região Amazônica;PA;150070;Anajás;P. vivax;3334;2020
+Região Amazônica;PA;150080;Ananindeua;P. vivax;1;2020
+Região Amazônica;PA;150085;Anapu;P. vivax;6;2020
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;3;2020
+Região Amazônica;PA;150110;Bagre;P. falciparum;1;2020
+Região Amazônica;PA;150110;Bagre;P. vivax;1050;2020
+Região Amazônica;PA;150120;Baião;P. vivax;66;2020
+Região Amazônica;PA;150125;Bannach;P. vivax;1;2020
+Região Amazônica;PA;150140;Belém;P. vivax;2;2020
+Região Amazônica;PA;150172;Brasil Novo;P. falciparum;2;2020
+Região Amazônica;PA;150172;Brasil Novo;P. vivax;1;2020
+Região Amazônica;PA;150180;Breves;P. vivax;574;2020
+Região Amazônica;PA;150200;Cachoeira do Arari;P. vivax;1;2020
+Região Amazônica;PA;150210;Cametá;P. vivax;731;2020
+Região Amazônica;PA;150240;Castanhal;P. vivax;1;2020
+Região Amazônica;PA;150250;Chaves;Malária mista;3;2020
+Região Amazônica;PA;150250;Chaves;P. falciparum;119;2020
+Região Amazônica;PA;150250;Chaves;P. vivax;172;2020
+Região Amazônica;PA;150276;Cumaru do Norte;P. falciparum;1;2020
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;16;2020
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2020
+Região Amazônica;PA;150280;Curralinho;P. vivax;140;2020
+Região Amazônica;PA;150300;Faro;P. vivax;20;2020
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;5;2020
+Região Amazônica;PA;150310;Gurupá;P. vivax;2;2020
+Região Amazônica;PA;150330;Igarapé-Miri;P. vivax;1;2020
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;1;2020
+Região Amazônica;PA;150360;Itaituba;Malária mista;75;2020
+Região Amazônica;PA;150360;Itaituba;P. falciparum;545;2020
+Região Amazônica;PA;150360;Itaituba;P. vivax;3291;2020
+Região Amazônica;PA;150375;Jacareacanga;P. malariae;2;2020
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;89;2020
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;546;2020
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;6629;2020
+Região Amazônica;PA;150380;Jacundá;P. falciparum;1;2020
+Região Amazônica;PA;150380;Jacundá;P. vivax;2;2020
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;65;2020
+Região Amazônica;PA;150420;Marabá;P. falciparum;1;2020
+Região Amazônica;PA;150420;Marabá;P. vivax;2;2020
+Região Amazônica;PA;150445;Medicilândia;P. falciparum;1;2020
+Região Amazônica;PA;150445;Medicilândia;P. vivax;6;2020
+Região Amazônica;PA;150450;Melgaço;P. vivax;4;2020
+Região Amazônica;PA;150460;Mocajuba;P. vivax;13;2020
+Região Amazônica;PA;150470;Moju;P. vivax;3;2020
+Região Amazônica;PA;150475;Mojuí dos Campos;P. vivax;2;2020
+Região Amazônica;PA;150480;Monte Alegre;P. vivax;2;2020
+Região Amazônica;PA;150490;Muaná;P. falciparum;1;2020
+Região Amazônica;PA;150490;Muaná;P. vivax;14;2020
+Região Amazônica;PA;150503;Novo Progresso;Malária mista;1;2020
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;1;2020
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;67;2020
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;12;2020
+Região Amazônica;PA;150510;Óbidos;P. vivax;6;2020
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;1186;2020
+Região Amazônica;PA;150530;Oriximiná;P. vivax;856;2020
+Região Amazônica;PA;150543;Ourilândia do Norte;Malária mista;1;2020
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;46;2020
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;36;2020
+Região Amazônica;PA;150548;Pacajá;Malária mista;1;2020
+Região Amazônica;PA;150548;Pacajá;P. vivax;114;2020
+Região Amazônica;PA;150550;Paragominas;P. vivax;2;2020
+Região Amazônica;PA;150553;Parauapebas;P. vivax;11;2020
+Região Amazônica;PA;150570;Ponta de Pedras;P. falciparum;5;2020
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;20;2020
+Região Amazônica;PA;150580;Portel;P. falciparum;2;2020
+Região Amazônica;PA;150580;Portel;P. vivax;429;2020
+Região Amazônica;PA;150600;Prainha;P. vivax;90;2020
+Região Amazônica;PA;150613;Redenção;P. vivax;4;2020
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;12;2020
+Região Amazônica;PA;150619;Rurópolis;P. vivax;3;2020
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. falciparum;4;2020
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;6;2020
+Região Amazônica;PA;150650;Santa Izabel do Pará;P. vivax;1;2020
+Região Amazônica;PA;150680;Santarém;Malária mista;2;2020
+Região Amazônica;PA;150680;Santarém;P. falciparum;1;2020
+Região Amazônica;PA;150680;Santarém;P. vivax;30;2020
+Região Amazônica;PA;150730;São Félix do Xingu;P. ovale;1;2020
+Região Amazônica;PA;150730;São Félix do Xingu;P. falciparum;1;2020
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;12;2020
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;Malária mista;1;2020
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. falciparum;3;2020
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;11;2020
+Região Amazônica;PA;150775;Sapucaia;P. vivax;1;2020
+Região Amazônica;PA;150780;Senador José Porfírio;P. falciparum;2;2020
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;60;2020
+Região Amazônica;PA;150797;Terra Santa;P. vivax;1;2020
+Região Amazônica;PA;150805;Trairão;P. vivax;4;2020
+Região Amazônica;PA;150808;Tucumã;P. falciparum;6;2020
+Região Amazônica;PA;150808;Tucumã;P. vivax;1;2020
+Região Amazônica;PA;150810;Tucuruí;P. vivax;4;2020
+Região Amazônica;PA;Ignorado (PA);;P. vivax;6;2021
+Região Amazônica;PA;150030;Afuá;Malária mista;1;2021
+Região Amazônica;PA;150030;Afuá;P. falciparum;48;2021
+Região Amazônica;PA;150030;Afuá;P. vivax;190;2021
+Região Amazônica;PA;150034;Água Azul do Norte;P. vivax;1;2021
+Região Amazônica;PA;150040;Alenquer;P. vivax;322;2021
+Região Amazônica;PA;150050;Almeirim;Malária mista;1;2021
+Região Amazônica;PA;150050;Almeirim;P. falciparum;1;2021
+Região Amazônica;PA;150050;Almeirim;P. vivax;909;2021
+Região Amazônica;PA;150060;Altamira;Malária mista;5;2021
+Região Amazônica;PA;150060;Altamira;P. vivax;661;2021
+Região Amazônica;PA;150070;Anajás;Malária mista;19;2021
+Região Amazônica;PA;150070;Anajás;P. falciparum;606;2021
+Região Amazônica;PA;150070;Anajás;P. vivax;1191;2021
+Região Amazônica;PA;150080;Ananindeua;P. falciparum;1;2021
+Região Amazônica;PA;150080;Ananindeua;P. vivax;1;2021
+Região Amazônica;PA;150085;Anapu;P. vivax;4;2021
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;1;2021
+Região Amazônica;PA;150100;Aveiro;P. vivax;1;2021
+Região Amazônica;PA;150110;Bagre;P. falciparum;1;2021
+Região Amazônica;PA;150110;Bagre;P. vivax;246;2021
+Região Amazônica;PA;150120;Baião;P. vivax;4;2021
+Região Amazônica;PA;150125;Bannach;P. vivax;8;2021
+Região Amazônica;PA;150140;Belém;P. ovale;1;2021
+Região Amazônica;PA;150140;Belém;P. falciparum;1;2021
+Região Amazônica;PA;150140;Belém;P. vivax;27;2021
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. vivax;1;2021
+Região Amazônica;PA;150172;Brasil Novo;P. vivax;1;2021
+Região Amazônica;PA;150180;Breves;P. falciparum;7;2021
+Região Amazônica;PA;150180;Breves;P. vivax;565;2021
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;2;2021
+Região Amazônica;PA;150210;Cametá;P. vivax;97;2021
+Região Amazônica;PA;150215;Canaã dos Carajás;P. vivax;2;2021
+Região Amazônica;PA;150220;Capanema;P. vivax;1;2021
+Região Amazônica;PA;150250;Chaves;P. falciparum;139;2021
+Região Amazônica;PA;150250;Chaves;P. vivax;133;2021
+Região Amazônica;PA;150260;Colares;P. vivax;1;2021
+Região Amazônica;PA;150276;Cumaru do Norte;P. falciparum;31;2021
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;150;2021
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2021
+Região Amazônica;PA;150280;Curralinho;P. vivax;177;2021
+Região Amazônica;PA;150300;Faro;P. falciparum;1;2021
+Região Amazônica;PA;150300;Faro;P. vivax;103;2021
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;2;2021
+Região Amazônica;PA;150310;Gurupá;P. vivax;3;2021
+Região Amazônica;PA;150350;Irituia;P. vivax;1;2021
+Região Amazônica;PA;150360;Itaituba;Malária mista;89;2021
+Região Amazônica;PA;150360;Itaituba;P. falciparum;611;2021
+Região Amazônica;PA;150360;Itaituba;P. vivax;4310;2021
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;110;2021
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;1013;2021
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;6534;2021
+Região Amazônica;PA;150390;Juruti;P. vivax;1;2021
+Região Amazônica;PA;150400;Limoeiro do Ajuru;P. vivax;8;2021
+Região Amazônica;PA;150420;Marabá;P. vivax;1;2021
+Região Amazônica;PA;150430;Maracanã;P. vivax;1;2021
+Região Amazônica;PA;150442;Marituba;P. vivax;1;2021
+Região Amazônica;PA;150445;Medicilândia;P. vivax;6;2021
+Região Amazônica;PA;150450;Melgaço;P. vivax;3;2021
+Região Amazônica;PA;150460;Mocajuba;P. vivax;5;2021
+Região Amazônica;PA;150470;Moju;P. vivax;1;2021
+Região Amazônica;PA;150490;Muaná;Malária mista;1;2021
+Região Amazônica;PA;150490;Muaná;P. falciparum;1;2021
+Região Amazônica;PA;150490;Muaná;P. vivax;3;2021
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;3;2021
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;107;2021
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;2;2021
+Região Amazônica;PA;150510;Óbidos;P. vivax;1;2021
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;147;2021
+Região Amazônica;PA;150530;Oriximiná;P. falciparum;2;2021
+Região Amazônica;PA;150530;Oriximiná;P. vivax;1034;2021
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;1;2021
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;20;2021
+Região Amazônica;PA;150548;Pacajá;P. falciparum;1;2021
+Região Amazônica;PA;150548;Pacajá;P. vivax;57;2021
+Região Amazônica;PA;150550;Paragominas;P. vivax;1;2021
+Região Amazônica;PA;150553;Parauapebas;P. vivax;6;2021
+Região Amazônica;PA;150565;Placas;P. vivax;1;2021
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;7;2021
+Região Amazônica;PA;150580;Portel;Malária mista;1;2021
+Região Amazônica;PA;150580;Portel;P. falciparum;9;2021
+Região Amazônica;PA;150580;Portel;P. vivax;309;2021
+Região Amazônica;PA;150600;Prainha;P. vivax;113;2021
+Região Amazônica;PA;150613;Redenção;Malária mista;2;2021
+Região Amazônica;PA;150613;Redenção;P. falciparum;6;2021
+Região Amazônica;PA;150613;Redenção;P. vivax;14;2021
+Região Amazônica;PA;150618;Rondon do Pará;P. vivax;1;2021
+Região Amazônica;PA;150619;Rurópolis;P. vivax;8;2021
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;2;2021
+Região Amazônica;PA;150660;Santa Maria do Pará;P. vivax;1;2021
+Região Amazônica;PA;150670;Santana do Araguaia;P. vivax;4;2021
+Região Amazônica;PA;150680;Santarém;P. falciparum;1;2021
+Região Amazônica;PA;150680;Santarém;P. vivax;56;2021
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;6;2021
+Região Amazônica;PA;150745;São Geraldo do Araguaia;P. vivax;1;2021
+Região Amazônica;PA;150746;São João da Ponta;P. vivax;1;2021
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;7;2021
+Região Amazônica;PA;150780;Senador José Porfírio;Malária mista;1;2021
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;6;2021
+Região Amazônica;PA;150790;Soure;P. vivax;1;2021
+Região Amazônica;PA;150795;Tailândia;P. vivax;2;2021
+Região Amazônica;PA;150805;Trairão;P. vivax;3;2021
+Região Amazônica;PA;150808;Tucumã;P. falciparum;1;2021
+Região Amazônica;PA;150808;Tucumã;P. vivax;4;2021
+Região Amazônica;PA;150810;Tucuruí;P. vivax;3;2021
+Região Amazônica;PA;150815;Uruará;P. vivax;3;2021
+Região Amazônica;PA;150840;Xinguara;P. vivax;1;2021
+Região Amazônica;PA;Ignorado (PA);;P. falciparum;1;2022
+Região Amazônica;PA;Ignorado (PA);;P. vivax;10;2022
+Região Amazônica;PA;150020;Acará;Malária mista;1;2022
+Região Amazônica;PA;150030;Afuá;Malária mista;2;2022
+Região Amazônica;PA;150030;Afuá;P. falciparum;48;2022
+Região Amazônica;PA;150030;Afuá;P. vivax;350;2022
+Região Amazônica;PA;150034;Água Azul do Norte;P. vivax;2;2022
+Região Amazônica;PA;150040;Alenquer;P. vivax;85;2022
+Região Amazônica;PA;150050;Almeirim;P. falciparum;13;2022
+Região Amazônica;PA;150050;Almeirim;P. vivax;566;2022
+Região Amazônica;PA;150060;Altamira;Malária mista;1;2022
+Região Amazônica;PA;150060;Altamira;P. falciparum;10;2022
+Região Amazônica;PA;150060;Altamira;P. vivax;1472;2022
+Região Amazônica;PA;150070;Anajás;Malária mista;21;2022
+Região Amazônica;PA;150070;Anajás;P. falciparum;383;2022
+Região Amazônica;PA;150070;Anajás;P. vivax;4718;2022
+Região Amazônica;PA;150080;Ananindeua;P. vivax;2;2022
+Região Amazônica;PA;150085;Anapu;P. vivax;24;2022
+Região Amazônica;PA;150095;Aurora do Pará;P. vivax;2;2022
+Região Amazônica;PA;150100;Aveiro;P. vivax;1;2022
+Região Amazônica;PA;150110;Bagre;P. vivax;151;2022
+Região Amazônica;PA;150125;Bannach;P. falciparum;3;2022
+Região Amazônica;PA;150125;Bannach;P. vivax;4;2022
+Região Amazônica;PA;150130;Barcarena;P. vivax;1;2022
+Região Amazônica;PA;150140;Belém;Malária mista;1;2022
+Região Amazônica;PA;150140;Belém;P. falciparum;2;2022
+Região Amazônica;PA;150140;Belém;P. vivax;78;2022
+Região Amazônica;PA;150145;Belterra;P. vivax;4;2022
+Região Amazônica;PA;150157;Bom Jesus do Tocantins;P. vivax;3;2022
+Região Amazônica;PA;150180;Breves;P. vivax;1017;2022
+Região Amazônica;PA;150195;Cachoeira do Piriá;Malária mista;1;2022
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. falciparum;1;2022
+Região Amazônica;PA;150195;Cachoeira do Piriá;P. vivax;1;2022
+Região Amazônica;PA;150210;Cametá;P. vivax;3;2022
+Região Amazônica;PA;150215;Canaã dos Carajás;Malária mista;1;2022
+Região Amazônica;PA;150250;Chaves;Malária mista;1;2022
+Região Amazônica;PA;150250;Chaves;P. falciparum;19;2022
+Região Amazônica;PA;150250;Chaves;P. vivax;152;2022
+Região Amazônica;PA;150260;Colares;P. vivax;1;2022
+Região Amazônica;PA;150270;Conceição do Araguaia;P. vivax;1;2022
+Região Amazônica;PA;150276;Cumaru do Norte;Malária mista;1;2022
+Região Amazônica;PA;150276;Cumaru do Norte;P. falciparum;2;2022
+Região Amazônica;PA;150276;Cumaru do Norte;P. vivax;364;2022
+Região Amazônica;PA;150277;Curionópolis;P. vivax;1;2022
+Região Amazônica;PA;150280;Curralinho;P. vivax;88;2022
+Região Amazônica;PA;150295;Eldorado do Carajás;P. vivax;1;2022
+Região Amazônica;PA;150300;Faro;P. vivax;121;2022
+Região Amazônica;PA;150309;Goianésia do Pará;P. vivax;2;2022
+Região Amazônica;PA;150345;Ipixuna do Pará;P. vivax;2;2022
+Região Amazônica;PA;150360;Itaituba;Malária mista;88;2022
+Região Amazônica;PA;150360;Itaituba;P. falciparum;406;2022
+Região Amazônica;PA;150360;Itaituba;P. vivax;3804;2022
+Região Amazônica;PA;150370;Itupiranga;P. vivax;1;2022
+Região Amazônica;PA;150375;Jacareacanga;Malária mista;80;2022
+Região Amazônica;PA;150375;Jacareacanga;P. falciparum;622;2022
+Região Amazônica;PA;150375;Jacareacanga;P. vivax;7740;2022
+Região Amazônica;PA;150380;Jacundá;P. vivax;1;2022
+Região Amazônica;PA;150405;Mãe do Rio;P. falciparum;1;2022
+Região Amazônica;PA;150420;Marabá;P. vivax;5;2022
+Região Amazônica;PA;150445;Medicilândia;P. vivax;4;2022
+Região Amazônica;PA;150450;Melgaço;P. vivax;2;2022
+Região Amazônica;PA;150470;Moju;P. vivax;3;2022
+Região Amazônica;PA;150475;Mojuí dos Campos;P. falciparum;2;2022
+Região Amazônica;PA;150475;Mojuí dos Campos;P. vivax;1;2022
+Região Amazônica;PA;150490;Muaná;P. falciparum;1;2022
+Região Amazônica;PA;150490;Muaná;P. vivax;5;2022
+Região Amazônica;PA;150495;Nova Esperança do Piriá;P. vivax;1;2022
+Região Amazônica;PA;150503;Novo Progresso;P. falciparum;7;2022
+Região Amazônica;PA;150503;Novo Progresso;P. vivax;88;2022
+Região Amazônica;PA;150506;Novo Repartimento;P. vivax;7;2022
+Região Amazônica;PA;150510;Óbidos;P. vivax;35;2022
+Região Amazônica;PA;150520;Oeiras do Pará;P. vivax;3;2022
+Região Amazônica;PA;150530;Oriximiná;P. vivax;492;2022
+Região Amazônica;PA;150543;Ourilândia do Norte;P. falciparum;3;2022
+Região Amazônica;PA;150543;Ourilândia do Norte;P. vivax;26;2022
+Região Amazônica;PA;150548;Pacajá;P. falciparum;2;2022
+Região Amazônica;PA;150548;Pacajá;P. vivax;27;2022
+Região Amazônica;PA;150550;Paragominas;P. vivax;2;2022
+Região Amazônica;PA;150553;Parauapebas;P. vivax;7;2022
+Região Amazônica;PA;150570;Ponta de Pedras;P. falciparum;1;2022
+Região Amazônica;PA;150570;Ponta de Pedras;P. vivax;22;2022
+Região Amazônica;PA;150580;Portel;P. falciparum;10;2022
+Região Amazônica;PA;150580;Portel;P. vivax;237;2022
+Região Amazônica;PA;150590;Porto de Moz;P. falciparum;1;2022
+Região Amazônica;PA;150600;Prainha;P. vivax;65;2022
+Região Amazônica;PA;150613;Redenção;Malária mista;2;2022
+Região Amazônica;PA;150613;Redenção;P. falciparum;1;2022
+Região Amazônica;PA;150613;Redenção;P. vivax;10;2022
+Região Amazônica;PA;150616;Rio Maria;P. falciparum;1;2022
+Região Amazônica;PA;150619;Rurópolis;Malária mista;1;2022
+Região Amazônica;PA;150619;Rurópolis;P. vivax;3;2022
+Região Amazônica;PA;150640;Santa Cruz do Arari;P. vivax;4;2022
+Região Amazônica;PA;150658;Santa Maria das Barreiras;P. vivax;1;2022
+Região Amazônica;PA;150680;Santarém;Malária mista;2;2022
+Região Amazônica;PA;150680;Santarém;P. falciparum;2;2022
+Região Amazônica;PA;150680;Santarém;P. vivax;45;2022
+Região Amazônica;PA;150730;São Félix do Xingu;P. falciparum;2;2022
+Região Amazônica;PA;150730;São Félix do Xingu;P. vivax;90;2022
+Região Amazônica;PA;150745;São Geraldo do Araguaia;P. vivax;1;2022
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;Malária mista;1;2022
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. falciparum;2;2022
+Região Amazônica;PA;150770;São Sebastião da Boa Vista;P. vivax;10;2022
+Região Amazônica;PA;150780;Senador José Porfírio;P. falciparum;4;2022
+Região Amazônica;PA;150780;Senador José Porfírio;P. vivax;9;2022
+Região Amazônica;PA;150795;Tailândia;P. falciparum;1;2022
+Região Amazônica;PA;150805;Trairão;P. vivax;31;2022
+Região Amazônica;PA;150808;Tucumã;P. vivax;2;2022
+Região Amazônica;PA;150810;Tucuruí;P. vivax;1;2022
+Região Amazônica;PA;150815;Uruará;P. vivax;1;2022
+Região Amazônica;PA;150835;Vitória do Xingu;P. vivax;3;2022
+Região Amazônica;PA;150840;Xinguara;P. vivax;3;2022
